@@ -1,0 +1,1 @@
+q="'";s='q="";s=;f=s.substr.bind(s);console.log(f(0,3)+q+f(3,4)+q+s+q+f(7));';f=s.substr.bind(s);console.log(f(0,3)+q+f(3,4)+q+s+q+f(7));

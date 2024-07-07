@@ -1,0 +1,20 @@
+<html>
+<body>
+<style>
+  style {
+    display: inline;
+    white-space: pre;
+  }
+  body::before {
+    content: "<html>\A<body>\A<style>";
+    display: inline;
+    white-space: pre;
+  }
+  body::after {
+    content: "<\/style>\A<\/body>\A<\/html>";
+    display: inline;
+    white-space: pre;
+  }
+</style>
+</body>
+</html>

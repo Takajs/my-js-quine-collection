@@ -1,0 +1,1 @@
+el = evl = eal = eva = ev = e = val = avl = vl = va = v = al = e = v = a = l = eval;code='var q=unescape("%27");console.log("el = evl = eal = eva = ev = e = val = avl = vl = va = v = al = e = v = a = l = eval;code="+q+code+q+";eval(code)")';eval(code)
